@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Waffle Software</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- NAV -->
+  <header class="nav">
+    <a href="#" class="nav-brand">
+      <img src="logo.png" alt="Waffle Software logo" class="nav-logo" />
+      <span class="nav-name">Waffle Software</span>
+    </a>
+    <nav class="nav-links">
+      <a href="#apps" data-i18n="nav.apps"></a>
+      <a href="#about" data-i18n="nav.about"></a>
+      <a href="#contact" data-i18n="nav.contact"></a>
+    </nav>
+    <div class="lang-switcher">
+      <button class="lang-btn" data-lang="fr">FR</button>
+      <span class="lang-sep">/</span>
+      <button class="lang-btn" data-lang="en">EN</button>
+    </div>
+  </header>
+
+  <!-- HERO -->
+  <section class="hero">
+    <h1 class="hero-tagline" data-i18n="hero.tagline"></h1>
+    <p class="hero-description" data-i18n="hero.description"></p>
+    <a href="#contact" class="btn" data-i18n="nav.contact"></a>
+  </section>
+
+  <!-- APPS -->
+  <section class="section" id="apps">
+    <h2 class="section-title" data-i18n="apps.title"></h2>
+    <div class="apps-placeholder">
+      <span class="apps-soon" data-i18n="apps.soon"></span>
+      <p data-i18n="apps.placeholder"></p>
+    </div>
+  </section>
+
+  <!-- ABOUT -->
+  <section class="section section-alt" id="about">
+    <h2 class="section-title" data-i18n="about.title"></h2>
+    <p class="about-text" data-i18n="about.text"></p>
+  </section>
+
+  <!-- CONTACT -->
+  <section class="section" id="contact">
+    <h2 class="section-title" data-i18n="contact.title"></h2>
+    <p class="contact-description" data-i18n="contact.description"></p>
+    <a href="mailto:lucas@waffle-software.com" class="btn" data-i18n="contact.cta"></a>
+  </section>
+
+  <!-- FOOTER -->
+  <footer class="footer">
+    <span>© <span id="year"></span> Waffle Software — </span>
+    <span data-i18n="footer.rights"></span>
+  </footer>
+
+  <script src="main.js"></script>
+</body>
+</html>

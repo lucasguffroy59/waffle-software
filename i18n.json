@@ -1,0 +1,58 @@
+{
+  "fr": {
+    "nav": {
+      "apps": "Nos apps",
+      "about": "À propos",
+      "contact": "Contact"
+    },
+    "hero": {
+      "tagline": "Des apps qu'on crée, qu'on aime, qu'on publie.",
+      "description": "Waffle Software est un studio indépendant qui conçoit et édite ses propres applications mobiles pour iOS et Android."
+    },
+    "apps": {
+      "title": "Nos applications",
+      "soon": "Bientôt disponible",
+      "placeholder": "De nouvelles applications sont en cours de développement. Revenez bientôt."
+    },
+    "about": {
+      "title": "À propos",
+      "text": "Waffle Software est un studio mobile indépendant. Nous imaginons, développons et publions nos propres applications — avec soin, rigueur et un goût prononcé pour les belles interfaces."
+    },
+    "contact": {
+      "title": "Dites-nous bonjour.",
+      "description": "Une question, un retour sur nos apps, une simple curiosité ? On lit tous nos mails.",
+      "cta": "Écrire à Waffle Software"
+    },
+    "footer": {
+      "rights": "Tous droits réservés."
+    }
+  },
+  "en": {
+    "nav": {
+      "apps": "Our apps",
+      "about": "About",
+      "contact": "Contact"
+    },
+    "hero": {
+      "tagline": "Apps we build, love, and ship.",
+      "description": "Waffle Software is an independent studio that designs and publishes its own iOS and Android mobile applications."
+    },
+    "apps": {
+      "title": "Our apps",
+      "soon": "Coming soon",
+      "placeholder": "New applications are currently in development. Check back soon."
+    },
+    "about": {
+      "title": "About",
+      "text": "Waffle Software is an independent mobile studio. We imagine, build, and ship our own apps — with care, precision, and a strong taste for beautiful interfaces."
+    },
+    "contact": {
+      "title": "Say hello.",
+      "description": "A question, feedback on our apps, or just curious? We read every email.",
+      "cta": "Write to Waffle Software"
+    },
+    "footer": {
+      "rights": "All rights reserved."
+    }
+  }
+}
